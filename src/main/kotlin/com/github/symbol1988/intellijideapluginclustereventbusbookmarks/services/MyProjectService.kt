@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.symbol1988.intellijideapluginclustereventbusbookmarks.services
 
+import com.github.symbol1988.intellijideapluginclustereventbusbookmarks.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

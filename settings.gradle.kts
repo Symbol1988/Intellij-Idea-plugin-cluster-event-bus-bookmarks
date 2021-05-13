@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "Intellij-Idea-plugin-cluster-event-bus-bookmarks"
